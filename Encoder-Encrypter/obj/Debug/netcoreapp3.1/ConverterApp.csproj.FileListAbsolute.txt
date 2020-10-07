@@ -1,0 +1,13 @@
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\bin\Debug\netcoreapp3.1\ConverterApp.exe
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\bin\Debug\netcoreapp3.1\ConverterApp.deps.json
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\bin\Debug\netcoreapp3.1\ConverterApp.runtimeconfig.json
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\bin\Debug\netcoreapp3.1\ConverterApp.runtimeconfig.dev.json
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\bin\Debug\netcoreapp3.1\ConverterApp.dll
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\bin\Debug\netcoreapp3.1\ConverterApp.pdb
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\obj\Debug\netcoreapp3.1\ConverterApp.csprojAssemblyReference.cache
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\obj\Debug\netcoreapp3.1\ConverterApp.AssemblyInfoInputs.cache
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\obj\Debug\netcoreapp3.1\ConverterApp.AssemblyInfo.cs
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\obj\Debug\netcoreapp3.1\ConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\obj\Debug\netcoreapp3.1\ConverterApp.dll
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\obj\Debug\netcoreapp3.1\ConverterApp.pdb
+C:\Users\Meet Patel\Desktop\GEORGIAN\ACADEMICS\1001 - Information Encoding Standards\Codes\Encoder-Encrypter\Encoder-Encrypter\obj\Debug\netcoreapp3.1\ConverterApp.genruntimeconfig.cache
