@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConverterApp", "Encoder-Encrypter\ConverterApp.csproj", "{B95A0DF3-9050-4D00-9E19-6AF3B81C5AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95A0DF3-9050-4D00-9E19-6AF3B81C5AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95A0DF3-9050-4D00-9E19-6AF3B81C5AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95A0DF3-9050-4D00-9E19-6AF3B81C5AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95A0DF3-9050-4D00-9E19-6AF3B81C5AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DA763BB-F419-47E0-865C-F3C79DB98839}
+	EndGlobalSection
+EndGlobal
